@@ -1,4 +1,3 @@
 # Algorithms_4th
 ## Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne
-src/main/java:sources code
-src/main/resources:data files
+[click here download algs4-data.zip](http://algs4.cs.princeton.edu/code/algs4-data.zip)
