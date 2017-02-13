@@ -1,2 +1,4 @@
 # Algorithms_4th
-算法(第4版)
+## Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne
+src/main/java:sources code
+src/main/resources:data files
